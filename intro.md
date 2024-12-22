@@ -1,11 +1,9 @@
-# Welcome to your Jupyter Book
+# Welcome to the Heart Disease Prediction Project
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+This is an analysis of the Heart Disease dataset using various machine learning models. In this book, we will cover:
 
-Check out the content pages bundled with this sample book to see more.
+- Data Preprocessing
+- Model Training
+- Evaluation and Final Analysis
 
-```{tableofcontents}
-```
+Each chapter will guide you through the process, and all code is available for your review.
